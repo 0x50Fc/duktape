@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "KKDuktape"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "iOS JavaScript Duktape."
 
   # This description is used to generate tags and improve search results.
